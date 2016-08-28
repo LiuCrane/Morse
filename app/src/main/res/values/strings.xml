@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Morse</string>
+    <string name="alpha">Alphabets</string>
+    <string name="morse">Morse</string>
+</resources>
